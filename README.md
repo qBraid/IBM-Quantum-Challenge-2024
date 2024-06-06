@@ -23,9 +23,9 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 
 ## Challenge content
 
-- lab0 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_0/)
-- lab1 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_1/)
-- lab2 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_2/)
+- Lab 0 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_0/)
+- Lab 1 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_1/)
+- Lab 2 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_2/)
 - Lab 3
 - Lab 4
 
@@ -36,4 +36,4 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 ## Collaborators
 
 Thank you! to everyone who helped make this challenge possible and a great success.
-**Special Thanks to** qBraid team on their wonderful work on [lab.qbraid.com](http://lab.qbraid.co)
+**Special Thanks to** qBraid team on their wonderful work on [lab.qbraid.com](http://lab.qbraid.com)

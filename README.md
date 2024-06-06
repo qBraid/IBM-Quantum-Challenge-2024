@@ -23,9 +23,9 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 
 ## Challenge content
 
-- [Lab 0](./content/lab_0/)
-- [Lab 1](./content/lab_1/)
-- [Lab 2](./content/lab_2/)
+- lab0 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_0/)
+- lab1 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_1/)
+- lab2 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_2/)
 - Lab 3
 - Lab 4
 

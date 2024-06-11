@@ -3,11 +3,11 @@
 
 ## IBM Quantum Challenge 2024 - Event overview
 
-This year’s challenge starts on 5 June, and is about Qiskit SDK 1.0 and working toward utility-scale quantum experiments. 
+This year’s challenge starts on Wednesday June 5, and covers Qiskit SDK 1.0 and working toward utility-scale quantum experiments. 
 
 ## Registration
 
-Registration is open until the end of the challenge (14 June): https://challenges.quantum.ibm.com/2024
+Registration is open until the end of the challenge (4pm EST, Friday June 14): https://challenges.quantum.ibm.com/2024
 
 ## Introduction
 
@@ -23,11 +23,11 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 
 ## Challenge content
 
-- Lab 0 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_0/)
-- Lab 1 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_1/)
-- Lab 2 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_2/)
-- Lab 3
-- Lab 4
+- Lab 0 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="125">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_0/)
+- Lab 1 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="125">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_1/)
+- Lab 2 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="125">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_2/)
+- Lab 3 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="125">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_3/)
+- Lab 4 - [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="125">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/ibm-quantum-challenge-2024.git&redirectUrl=/content/lab_4/)
 
 ## [Event Code of Conduct](./CODE_OF_CONDUCT.md)
 
